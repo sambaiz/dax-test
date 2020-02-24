@@ -42,11 +42,17 @@ new ECSStack(app, 'ECSBoilerplateSampleStack', {
 3. Deploy
 
 ```
-$ AWS_PROFILE make deploy
+$ make deploy
 ...
 Outputs:
 ECSBoilerplateSampleStack.ServiceServiceURL*** = http://***.elb.amazonaws.com
 
 $ curl http://***.elb.amazonaws.com
 Hi this is ECS
+```
+
+4. Destroy
+
+```
+$ make destroy
 ```
