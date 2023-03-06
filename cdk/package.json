@@ -16,11 +16,11 @@
     "typescript": "~3.6.2"
   },
   "dependencies": {
-    "@aws-cdk/aws-certificatemanager": "^1.25.0",
+    "@aws-cdk/aws-certificatemanager": "^1.195.0",
     "@aws-cdk/aws-dax": "^1.25.0",
-    "@aws-cdk/aws-dynamodb": "^1.25.0",
-    "@aws-cdk/aws-ecs": "^1.25.0",
-    "@aws-cdk/aws-ecs-patterns": "^1.25.0",
+    "@aws-cdk/aws-dynamodb": "^1.195.0",
+    "@aws-cdk/aws-ecs": "^1.195.0",
+    "@aws-cdk/aws-ecs-patterns": "^1.195.0",
     "@aws-cdk/aws-iam": "^1.25.0",
     "@aws-cdk/aws-route53": "^1.25.0",
     "@aws-cdk/core": "^1.25.0",
